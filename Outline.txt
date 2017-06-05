@@ -1,0 +1,10 @@
+
+Outline:
+
+1) we need lists that contain Strings and values(to determine score).
+
+2) we need to write a method that picks one element "rock/paper/scissors" at random for the computer.
+
+3) player will have a choice with what to go.
+
+4) physical implementation
